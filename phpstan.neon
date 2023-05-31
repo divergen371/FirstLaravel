@@ -1,2 +1,4 @@
 parameters:
     level: 0
+    excludePaths:
+        - ./.php-cs-fixer.dist.php
